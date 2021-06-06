@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Christos Giannakopoulos  @giannacs
+- 👀 I’m interested in Computational Physics
+- 🌱 I’m currently learning MATLAB
+- 📫 How to reach me giannacs@mail.uc.edu
